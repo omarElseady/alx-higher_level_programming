@@ -13,4 +13,3 @@ def uniq_add(my_list=[]):
             sum += num
             new_list.append(num)
     return sum
-
